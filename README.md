@@ -32,7 +32,7 @@ Dsa with c++
 
 [![BA1.Input and Output in array](https://github.com/kamlesh802207/The_Learning_Lab/blob/main/array/array_basic/arrarInputOutput.cpp)]
 
-[![Logo](other/Screenshot 2024-03-27 015903.png)]
+[![Logo](https://github.com/kamlesh802207/The_Learning_Lab/blob/main/other/Screenshot%202024-03-27%20015903.png)]
 
 [![BA2.Find Minimum element  in Array](https://github.com/kamlesh802207/The_Learning_Lab/blob/main/array/array_basic/arrMinimum.cpp)]
 
