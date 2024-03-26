@@ -32,11 +32,16 @@ Dsa with c++
 
 [![BA1.Input and Output in array](https://github.com/kamlesh802207/The_Learning_Lab/blob/main/array/array_basic/arrarInputOutput.cpp)]
 
-[![Logo](https://github.com/kamlesh802207/The_Learning_Lab/blob/main/other/Screenshot%202024-03-27%20015903.png)]
+[![Logo](https://github.com/kamlesh802207/The_Learning_Lab/blob/main/other/Input%20output.png)]
 
 [![BA2.Find Minimum element  in Array](https://github.com/kamlesh802207/The_Learning_Lab/blob/main/array/array_basic/arrMinimum.cpp)]
 
+[![Logo](https://github.com/kamlesh802207/The_Learning_Lab/blob/main/other/minimum.png)]
+
+
 [![BA3.Find Maximum elment in Array](https://github.com/kamlesh802207/The_Learning_Lab/blob/main/array/array_basic/arrmax.cpp)]
+
+[![Logo](https://github.com/kamlesh802207/The_Learning_Lab/blob/main/other/maximum.png)]
 
 ## Sorting
 
@@ -49,6 +54,8 @@ Dsa with c++
 ## Searching
 
 [![1.Binary Search](https://github.com/kamlesh802207/The_Learning_Lab/blob/main/array/searching/binary_seaerch.cpp)]
+
+[![Logo](https://github.com/kamlesh802207/The_Learning_Lab/blob/main/other/Binary%20search.png)]
 
 
 ## 🔗 Links
