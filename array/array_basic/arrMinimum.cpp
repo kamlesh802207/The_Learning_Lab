@@ -15,6 +15,9 @@ int main()
         }
 
     }
-    cout<<" The minimum number of element = "<<max;
+    cout<<endl;
+    cout<<"Given array=34,67,12,32,87,14"<<endl;
+    cout<<"The minimum number of element = "<<max;
+    cout<<endl;
     return 0;
 }

@@ -1,3 +1,4 @@
+//Binary search
 #include<iostream>
 using namespace std;
 int binarysearch(int arr[],int n,int key)
@@ -22,15 +23,16 @@ int binarysearch(int arr[],int n,int key)
 int main()
 {
     int arr[1000],n,key;
-    cout<<"Enter size of array"<<endl;
+    cout<<endl;
+    cout<<"Enter size of array =";
     cin>>n;
-    cout<<"Enter array element"<<endl;
+    cout<<"Enter array element:"<<endl;
     for(int i=0;i<n;i++)
     {
         cin>>arr[i];
     }
-    cout<<"Enter key elment"<<endl;
+    cout<<"Enter key elment=";
     cin>>key;
-    cout<<binarysearch(arr,n,key);
+    cout<<"index value of element is "<<binarysearch(arr,n,key)<<endl;
     return 0;
 }

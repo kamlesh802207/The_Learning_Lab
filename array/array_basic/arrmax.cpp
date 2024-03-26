@@ -11,6 +11,8 @@ int main()
         if(arr[i]>min)
         min=arr[i];
     }
-    cout<<" Maximum number is= "<<min;
+    cout<<endl;
+    cout<<"Given array= 46,65,12,34,59,90,22 "<<endl;
+    cout<<"Maximum number is= "<<min;
     return 0;
 }
