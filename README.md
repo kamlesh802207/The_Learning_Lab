@@ -57,7 +57,7 @@ Dsa with c++
 
 [![2.Binary search(find first and last element in sorted array)](https://github.com/kamleshvvit/The_Learning_Lab/blob/main/array/searching/binary_search_lt.cpp)]
 
-##### 3.Binary search(Search inserted position) 
+##### [![3.Binary search(Search inserted position)](https://github.com/kamleshvvit/The_Learning_Lab/blob/main/array/searching/binary_search_Insert_position.cpp)] 
   
   Given a sorted array of distinct integers and a target ,
   return the index if the target is found. if not return 
