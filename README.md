@@ -1,6 +1,6 @@
 # The_learning_lab
 
-![Logo](https://github.com/kamlesh802207/The_Learning_Lab/blob/main/banner.png)
+![Logo](https://github.com/kamleshvvit/The_Learning_Lab/blob/main/banner.png)
 
 
 # Code Practice 
@@ -30,32 +30,33 @@ Dsa with c++
 
 ## Basic Array
 
-[![BA1.Input and Output in array](https://github.com/kamlesh802207/The_Learning_Lab/blob/main/array/array_basic/arrarInputOutput.cpp)]
+[![BA1.Input and Output in array](https://github.com/kamleshvvit/The_Learning_Lab/blob/main/array/array_basic/arrarInputOutput.cpp)]
 
-[![Logo](https://github.com/kamlesh802207/The_Learning_Lab/blob/main/other/Input%20output.png)]
+[![Logo](https://github.com/kamleshvvit/The_Learning_Lab/blob/main/other/Input%20output.png)]
 
-[![BA2.Find Minimum element  in Array](https://github.com/kamlesh802207/The_Learning_Lab/blob/main/array/array_basic/arrMinimum.cpp)]
+[![BA2.Find Minimum element  in Array](https://github.com/kamleshvvit/The_Learning_Lab/blob/main/array/array_basic/arrMinimum.cpp)]
 
-[![Logo](https://github.com/kamlesh802207/The_Learning_Lab/blob/main/other/minimum.png)]
+[![Logo](https://github.com/kamleshvvit/The_Learning_Lab/blob/main/other/minimum.png)]
 
 
-[![BA3.Find Maximum elment in Array](https://github.com/kamlesh802207/The_Learning_Lab/blob/main/array/array_basic/arrmax.cpp)]
+[![BA3.Find Maximum elment in Array](https://github.com/kamleshvvit/The_Learning_Lab/blob/main/array/array_basic/arrmax.cpp)]
 
-[![Logo](https://github.com/kamlesh802207/The_Learning_Lab/blob/main/other/maximum.png)]
+[![Logo](https://github.com/kamleshvvit/The_Learning_Lab/blob/main/other/maximum.png)]
 
 ## Sorting
 
-[![1.Bubble Sort](https://github.com/kamlesh802207/The_Learning_Lab/blob/main/array/sorting/bubblesort.cpp)]
+[![1.Bubble Sort](https://github.com/kamleshvvit/The_Learning_Lab/blob/main/array/sorting/bubblesort.cpp)]
 
-[![2.Insertion Sort](https://github.com/kamlesh802207/The_Learning_Lab/blob/main/array/sorting/insertionsort.cpp)]
+[![2.Insertion Sort](https://github.com/kamleshvvit/The_Learning_Lab/blob/main/array/sorting/insertionsort.cpp)]
 
-[![3.Selection Sort](https://github.com/kamlesh802207/The_Learning_Lab/blob/main/array/sorting/selection_sort.cpp)]
+[![3.Selection Sort](https://github.com/kamleshvvit/The_Learning_Lab/blob/main/array/sorting/selection_sort.cpp)]
 
 ## Searching
 
-[![1.Binary Search](https://github.com/kamlesh802207/The_Learning_Lab/blob/main/array/searching/binary_seaerch.cpp)]
+[![1.Binary Search](https://github.com/kamleshvvit/The_Learning_Lab/blob/main/array/searching/binary_seaerch.cpp)]
 
-[![Logo](https://github.com/kamlesh802207/The_Learning_Lab/blob/main/other/Binary%20search.png)]
+[![2.Binary search(find first and last element in sorted array)](https://github.com/kamleshvvit/The_Learning_Lab/blob/main/array/searching/binary_search_lt.cpp)]
+
 
 
 ## 🔗 Links
