@@ -82,7 +82,7 @@ Dsa with c++
 
 ## Authors
 
-- [@octokatherine](https://github.com/kamlesh802207)
+- [@octokatherine](https://github.com/kamleshvvit)
 
 
 ## Support
