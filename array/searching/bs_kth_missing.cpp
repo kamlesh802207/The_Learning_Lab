@@ -28,7 +28,7 @@ int kth_element(int arr[],int n,int k)
         {
             cin>>arr[i];
         }
-        cout<<"Enter k  element: ";
+        cout<<"Enter kth element: ";
         cin>>k;
         cout<<"ans="<<kth_element(arr,n,k);
         return 0;
