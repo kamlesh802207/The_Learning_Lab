@@ -50,7 +50,7 @@ int rotated_array(int arr[],int n,int target)
 int main()
 {
     int arr[100],n,target;
-    cout<<"Enter size of array:";
+    cout<<" Enter size of array:";
     cin>>n;
     cout<<"Enter array element :";
     for(int i=0;i<n;i++)

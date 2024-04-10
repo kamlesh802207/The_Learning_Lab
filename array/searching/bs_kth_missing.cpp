@@ -33,6 +33,7 @@ int kth_element(int arr[],int n,int k)
     int main()
     {
         int arr[1000],n,k;
+        cout<<endl;
         cout<<"Enter size of array :";
         cin>>n;
         cout<<endl;
@@ -41,7 +42,7 @@ int kth_element(int arr[],int n,int k)
         {
             cin>>arr[i];
         }
-        cout<<"Enter kth element: ";
+        cout<<" Enter kth element: ";
         cin>>k;
         cout<<"ans="<<kth_element(arr,n,k);
         main();
